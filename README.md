@@ -160,7 +160,7 @@ I'm also exploring **OpenAI, Amazon Bedrock, Amazon SageMaker, and LangChain** t
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.verc?username=lakhanikeyur&show_icons=true&theme=transparent&rank_icon=github" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=lakhanikeyur&show_icons=true&theme=transparent&rank_icon=github" />
 
 <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakhanikeyur&layout=compact&theme=transparent" />
 
@@ -168,7 +168,7 @@ I'm also exploring **OpenAI, Amazon Bedrock, Amazon SageMaker, and LangChain** t
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=lakhanikeyur&theme=transparent" />
+<img src="https://streak-stats.demolab.com?user=lakhanikeyur&theme=transparent" />
 
 </div>
 
